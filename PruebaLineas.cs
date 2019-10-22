@@ -43,5 +43,16 @@ Console.WriteLine("develop master");
             Console.Read();
 
         }
+
+        static string Mensaje()
+        {
+
+            return "hola";
+
+            
+
+
+
+        }
     }
 }
