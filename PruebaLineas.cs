@@ -55,5 +55,17 @@ Console.WriteLine("develop master");
 
 
         }
+
+        static string MensajeB()
+        {
+            string nombre="Hola";
+            string apellido="Hola";
+                        return nombre + apellido;
+
+            
+
+
+
+        }
     }
 }
