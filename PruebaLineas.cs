@@ -39,7 +39,8 @@ namespace ConsoleGit
             Console.Read();
 
 
-
+Console.WriteLine("develop master");
+            Console.Read();
 
         }
     }
