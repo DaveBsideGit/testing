@@ -1,7 +1,5 @@
 Hola Mundo
-<<<<<<< HEAD
 Hol Mensaje desde master
-=======
 Nuevas Pruebas 
 Registro en git hub
->>>>>>> develop
+
