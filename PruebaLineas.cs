@@ -46,8 +46,8 @@ Console.WriteLine("develop master");
 
         static string Mensaje()
         {
-
-            return "hola";
+            string nombre="Hola";
+                        return nombre;
 
             
 
