@@ -42,5 +42,16 @@ namespace ConsoleGit
 
 
         }
+
+        static string Mensaje()
+        {
+
+            return "hola";
+
+            
+
+
+
+        }
     }
 }
